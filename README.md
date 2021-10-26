@@ -3,5 +3,5 @@ My first github repository
 
 # 내소개
 * madey
-** yedam **
+* yedam
 * <yedam12312@gmail.com>
