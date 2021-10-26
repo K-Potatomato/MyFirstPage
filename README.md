@@ -8,5 +8,5 @@ My first github repository
 * <yedam12312@gmail.com>
 
 #### 오늘 할 일
-- [x] ㄱㄴㄷ
-- [ ] ㄱㄴㄷ
+- [x] 어렵
+- [ ] 어렵
