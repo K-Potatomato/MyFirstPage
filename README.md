@@ -3,5 +3,6 @@ My first github repository
 
 # 내소개
 * madey
-* yedam
+* Yedam KIm
+> > 金 例 談
 * <yedam12312@gmail.com>
