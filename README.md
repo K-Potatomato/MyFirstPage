@@ -1,7 +1,7 @@
 # MyFirstPage
 My first github repository
 
-# 내소개
+### 내소개
 * madey
 * Yedam Kim
  > 金 例 談
